@@ -6,7 +6,7 @@ const subcategoryController = require('../controllers/subcategoryController');
  * @swagger
  * tags:
  *   name: Subcategories
- *   description: API endpoints for Categories
+ *   description: API endpoints for Subcategories
  */
 
 /**
