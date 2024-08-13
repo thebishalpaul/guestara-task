@@ -54,7 +54,7 @@ app.use('/items', itemRoutes);
 
 // Default route
 app.get("/", (req, res) => {
-    res.status(200).send("api is live")
+    res.status(200).send("API working")
 })
 
 // Connect to MongoDB and start server
