@@ -29,7 +29,7 @@ const swaggerOptions = {
             }
         },
     },
-    apis: ['./routes/*.js']
+    apis: ['./routes/categoryRoute.js','./routes/subcategoryRoute.js','./routes/itemRoute.js']
 };
 
 // Generate swagger documentation
